@@ -1,4 +1,3 @@
-from objects.frames import *
 from objects.fourvectors import *
 
 # We will create 2 events event1 and event2
