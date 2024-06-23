@@ -1,4 +1,5 @@
-from frames_and_objects import *
+from objects.frames import *
+from objects.fourvectors import *
 
 # We will create 2 events event1 and event2
 # These will be simultanous in the rest frame 
